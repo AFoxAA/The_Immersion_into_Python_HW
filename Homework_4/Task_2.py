@@ -1,9 +1,5 @@
 from typing import Union
 
-string_parameter: str = 'Пример'
-number_parameter: int = 10
-list_parameter: list[int] = [1, 2, 3]
-
 # Функция создания обратного словаря 
 # (ключ - значение переданного аргумента, а значение — имя аргумента)
 def create_reverse_dictionary(**kwargs: Union[int, float, str]) -> dict[Union[int, float, str], str]:
