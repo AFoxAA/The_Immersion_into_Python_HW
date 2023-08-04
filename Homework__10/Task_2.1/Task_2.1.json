@@ -1,0 +1,230 @@
+[
+    {
+        "path": "my_package",
+        "type": "directory",
+        "parent_directory": "",
+        "size": 24819
+    },
+    {
+        "path": "Tasks",
+        "type": "directory",
+        "parent_directory": "",
+        "size": 39024
+    },
+    {
+        "path": "my_package\\ex1.py",
+        "type": "file",
+        "parent_directory": "my_package",
+        "size": 3284
+    },
+    {
+        "path": "my_package\\ex3_seminar.py",
+        "type": "file",
+        "parent_directory": "my_package",
+        "size": 749
+    },
+    {
+        "path": "my_package\\ex4_seminar.py",
+        "type": "file",
+        "parent_directory": "my_package",
+        "size": 1813
+    },
+    {
+        "path": "my_package\\ex5_seminar.py",
+        "type": "file",
+        "parent_directory": "my_package",
+        "size": 866
+    },
+    {
+        "path": "my_package\\ex6_seminar.py",
+        "type": "file",
+        "parent_directory": "my_package",
+        "size": 840
+    },
+    {
+        "path": "my_package\\ex7_seminar.py",
+        "type": "file",
+        "parent_directory": "my_package",
+        "size": 599
+    },
+    {
+        "path": "my_package\\__init__.py",
+        "type": "file",
+        "parent_directory": "my_package",
+        "size": 458
+    },
+    {
+        "path": "my_package\\__pycache__",
+        "type": "directory",
+        "parent_directory": "my_package",
+        "size": 16210
+    },
+    {
+        "path": "my_package\\__pycache__\\ex1.cpython-311.pyc",
+        "type": "file",
+        "parent_directory": "my_package\\__pycache__",
+        "size": 5161
+    },
+    {
+        "path": "my_package\\__pycache__\\ex3_seminar.cpython-311.pyc",
+        "type": "file",
+        "parent_directory": "my_package\\__pycache__",
+        "size": 1762
+    },
+    {
+        "path": "my_package\\__pycache__\\ex4_seminar.cpython-311.pyc",
+        "type": "file",
+        "parent_directory": "my_package\\__pycache__",
+        "size": 3409
+    },
+    {
+        "path": "my_package\\__pycache__\\ex5_seminar.cpython-311.pyc",
+        "type": "file",
+        "parent_directory": "my_package\\__pycache__",
+        "size": 2012
+    },
+    {
+        "path": "my_package\\__pycache__\\ex6_seminar.cpython-311.pyc",
+        "type": "file",
+        "parent_directory": "my_package\\__pycache__",
+        "size": 1859
+    },
+    {
+        "path": "my_package\\__pycache__\\ex7_seminar.cpython-311.pyc",
+        "type": "file",
+        "parent_directory": "my_package\\__pycache__",
+        "size": 1279
+    },
+    {
+        "path": "my_package\\__pycache__\\__init__.cpython-311.pyc",
+        "type": "file",
+        "parent_directory": "my_package\\__pycache__",
+        "size": 728
+    },
+    {
+        "path": "Tasks\\Task_1",
+        "type": "directory",
+        "parent_directory": "Tasks",
+        "size": 32327
+    },
+    {
+        "path": "Tasks\\Task_3_Seminar",
+        "type": "directory",
+        "parent_directory": "Tasks",
+        "size": 1327
+    },
+    {
+        "path": "Tasks\\Task_4_Seminar",
+        "type": "directory",
+        "parent_directory": "Tasks",
+        "size": 3028
+    },
+    {
+        "path": "Tasks\\Task_5_Seminar",
+        "type": "directory",
+        "parent_directory": "Tasks",
+        "size": 1098
+    },
+    {
+        "path": "Tasks\\Task_6_Seminar",
+        "type": "directory",
+        "parent_directory": "Tasks",
+        "size": 980
+    },
+    {
+        "path": "Tasks\\Task_7_Seminar",
+        "type": "directory",
+        "parent_directory": "Tasks",
+        "size": 264
+    },
+    {
+        "path": "Tasks\\Task_1\\HW8_1.csv",
+        "type": "file",
+        "parent_directory": "Tasks\\Task_1",
+        "size": 9194
+    },
+    {
+        "path": "Tasks\\Task_1\\HW8_1.json",
+        "type": "file",
+        "parent_directory": "Tasks\\Task_1",
+        "size": 13328
+    },
+    {
+        "path": "Tasks\\Task_1\\HW8_1.pickle",
+        "type": "file",
+        "parent_directory": "Tasks\\Task_1",
+        "size": 9546
+    },
+    {
+        "path": "Tasks\\Task_1\\Task_1.py",
+        "type": "file",
+        "parent_directory": "Tasks\\Task_1",
+        "size": 259
+    },
+    {
+        "path": "Tasks\\Task_3_Seminar\\Task_3_Seminar.py",
+        "type": "file",
+        "parent_directory": "Tasks\\Task_3_Seminar",
+        "size": 280
+    },
+    {
+        "path": "Tasks\\Task_3_Seminar\\Task_3_seminar_8.csv",
+        "type": "file",
+        "parent_directory": "Tasks\\Task_3_Seminar",
+        "size": 274
+    },
+    {
+        "path": "Tasks\\Task_3_Seminar\\Task_3_seminar_8.json",
+        "type": "file",
+        "parent_directory": "Tasks\\Task_3_Seminar",
+        "size": 773
+    },
+    {
+        "path": "Tasks\\Task_4_Seminar\\Task_4_Seminar.py",
+        "type": "file",
+        "parent_directory": "Tasks\\Task_4_Seminar",
+        "size": 294
+    },
+    {
+        "path": "Tasks\\Task_4_Seminar\\Task_4_seminar_8.csv",
+        "type": "file",
+        "parent_directory": "Tasks\\Task_4_Seminar",
+        "size": 686
+    },
+    {
+        "path": "Tasks\\Task_4_Seminar\\Task_4_seminar_8.json",
+        "type": "file",
+        "parent_directory": "Tasks\\Task_4_Seminar",
+        "size": 2048
+    },
+    {
+        "path": "Tasks\\Task_5_Seminar\\Task_5_Seminar.py",
+        "type": "file",
+        "parent_directory": "Tasks\\Task_5_Seminar",
+        "size": 208
+    },
+    {
+        "path": "Tasks\\Task_5_Seminar\\Task_5_seminar_8.pickle",
+        "type": "file",
+        "parent_directory": "Tasks\\Task_5_Seminar",
+        "size": 890
+    },
+    {
+        "path": "Tasks\\Task_6_Seminar\\Task_6_Seminar.py",
+        "type": "file",
+        "parent_directory": "Tasks\\Task_6_Seminar",
+        "size": 294
+    },
+    {
+        "path": "Tasks\\Task_6_Seminar\\Task_6_Seminar_8.csv",
+        "type": "file",
+        "parent_directory": "Tasks\\Task_6_Seminar",
+        "size": 686
+    },
+    {
+        "path": "Tasks\\Task_7_Seminar\\Task_7_Seminar.py",
+        "type": "file",
+        "parent_directory": "Tasks\\Task_7_Seminar",
+        "size": 264
+    }
+]
