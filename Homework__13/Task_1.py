@@ -1,8 +1,8 @@
 from typing import List, Any, Iterable
 import csv
 import os
-from Task_1_except import FullNameFormatException, OutOfRangeGradeException, OutOfRangeTestScoreException, \
-    FileNotFoundCustomException, SubjectNotFoundInFileException
+from Homework__13.Task_1_except import (FullNameFormatException, OutOfRangeGradeException, OutOfRangeTestScoreException,
+                                        FileNotFoundCustomException, SubjectNotFoundInFileException)
 
 
 class FormattedNameDescriptor:
@@ -123,6 +123,7 @@ if __name__ == "__main__":
               round(student.calculate_average_test_result("Инфрматика"), 2))
 
     except (
-    FullNameFormatException, OutOfRangeGradeException, OutOfRangeTestScoreException, FileNotFoundCustomException,
-    SubjectNotFoundInFileException) as e:
+            FullNameFormatException, OutOfRangeGradeException, OutOfRangeTestScoreException,
+            FileNotFoundCustomException,
+            SubjectNotFoundInFileException) as e:
         print(f"\n\033[31mОшибка: {e}\033[0m")

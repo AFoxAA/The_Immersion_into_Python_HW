@@ -18,7 +18,7 @@ class FileNotFoundCustomException(Exception):
         self.file_name = file_name
 
     def __str__(self):
-        return f"\nФайл '{self.file_name}' не найден!"
+        return f"\n\033[31mФайл '{self.file_name}' не найден!\033[0m"
 
 
 class SubjectNotFoundInFileException(Exception):
@@ -26,7 +26,7 @@ class SubjectNotFoundInFileException(Exception):
         self.subject_name = subject_name
 
     def __str__(self):
-        return f"\nПредмет '{self.subject_name}' отсутствует в списке!"
+        return f"\n\033[31mПредмет '{self.subject_name}' отсутствует в списке!\033[0m"
 
 
 
